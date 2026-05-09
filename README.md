@@ -1,4 +1,4 @@
 ## This is Robusr.👨🏻‍💻
 So...Why not?
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
 
-![Robusr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Robusr&show_icons=true)
