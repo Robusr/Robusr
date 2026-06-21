@@ -2,25 +2,15 @@
 
 ![Metrics](./github-metrics.svg)
 
-<br />
-
 So...Why not?
 
-<br />
-
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<table border="0" width="100%">
   <tr>
-    <td valign="top" width="50%">
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=Robusr&show_icons=true&theme=nord&hide_border=true&hide_title=true"
-        alt="GitHub Stats"
-      />
+    <td width="50%" valign="top" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Robusr&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
     </td>
-    <td valign="top" width="50%">
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robusr&layout=compact&theme=nord&hide_border=true&hide_title=true"
-        alt="Top Languages"
-      />
+    <td width="50%" valign="top" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robusr&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
 </table>
