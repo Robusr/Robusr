@@ -1,15 +1,16 @@
 ### This is Robusr. 👨‍💻
 
-<!-- Metrics 总览大图置顶，全宽居中展示 -->
+<!-- Metrics -->
 <div align="center">
-  <img src="./github-metrics.svg" alt="Metrics" width="95%" />
+  <!-- <img src="./github-metrics.svg" alt="Metrics" width="95%" /> -->
+  <img src="./github-metrics.svg" alt="Metrics" />
 </div>
 
 <br />
 
 So...Why not?
 
-<!-- 双栏布局：统计卡 + 语言卡，无痕对齐 -->
+<!-- GitHub Stats & Top Languages -->
 <table border="0" width="100%">
   <tr>
     <td width="50%" valign="top" align="center">
