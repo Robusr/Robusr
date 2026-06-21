@@ -1,9 +1,6 @@
 ### <code>This is Robusr.</code>
 
 ![Metrics](./github-metrics.svg)
-
-So...Why not?
-
 <table border="0" width="100%">
   <tr>
     <td width="50%" valign="top" align="center">
@@ -14,3 +11,5 @@ So...Why not?
     </td>
   </tr>
 </table>
+
+So...Why not?
