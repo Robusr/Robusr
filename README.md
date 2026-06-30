@@ -11,7 +11,6 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robusr&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Robusr" />
 </table>
 
 ### <code>So...Why not?</code>
